@@ -4,7 +4,7 @@
     <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2093347134,1916204674&fm=15&gp=0.jpg" width="150">
 </div>
 
-**基本信息：** 赵剑峰 / 男 / 22&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北石家庄
+**基本信息：** 赵剑峰 / 男 / 22&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北石家庄
 
 **手&ensp;机&ensp;号：** 139 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** 2592558365@qq.com
 
