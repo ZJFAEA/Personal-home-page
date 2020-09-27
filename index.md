@@ -1,7 +1,7 @@
 
 
 <div style="float:right">
-    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1601227295913&di=3c517574311c4cdb651bc9b2e72f1c92&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201707%2F24%2F20170724221435_SWzih.thumb.700_0.jpeg" width="150">
 </div>
 
 **基本信息：** 赵剑峰 / 男 / 22&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河北石家庄
